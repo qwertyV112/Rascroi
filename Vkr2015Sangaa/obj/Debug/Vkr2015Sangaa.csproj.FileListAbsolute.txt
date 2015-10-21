@@ -1,0 +1,10 @@
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\bin\Debug\Vkr2015Sangaa.exe.config
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\bin\Debug\Vkr2015Sangaa.exe
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\bin\Debug\Vkr2015Sangaa.pdb
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.csprojResolveAssemblyReference.cache
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.Form1.resources
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.Properties.Resources.resources
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.csproj.GenerateResource.Cache
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.exe
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.pdb
+C:\Git\2\Vkr2015Sangaa\Vkr2015Sangaa\obj\Debug\Vkr2015Sangaa.Form2.resources
